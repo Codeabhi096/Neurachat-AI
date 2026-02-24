@@ -13,7 +13,8 @@ import os, datetime
 load_dotenv()
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv("OPENROUTER_API_KEY"),
+    api_key=os.environ["OPENAI_API_KEY"],
+    #api_key=os.getenv("OPENROUTER_API_KEY"),
 )
 
 # ── Models ────────────────────────────────────────────────────────────
@@ -674,4 +675,3 @@ if prompt := st.chat_input(f"Ask me anything… [{st.session_state.theme} · {st
     # Save to history
     st.session_state.messages.append({"role": "assistant", "content": full_reply})
 
-    
