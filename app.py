@@ -6,10 +6,10 @@
 
 import streamlit as st
 from openai import OpenAI
-#from dotenv import load_dotenv
-#import os, datetime
+from dotenv import load_dotenv
+import os, datetime
 # ── Env ───────────────────────────────────────────────────────────────
-#load_dotenv()
+load_dotenv()
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=st.secrets["OPENROUTER_API_KEY"],
