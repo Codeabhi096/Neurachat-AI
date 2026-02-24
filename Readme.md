@@ -12,8 +12,7 @@
 <p align="center">
   <a href="#">🚀 Live Demo</a> ·
   <a href="#-setup--installation">📖 Documentation</a> ·
-  <a href="https://github.com/Codeabhi096/neurachat/issues">🐛 Report Bug</a> ·
-  <a href="https://github.com/Codeabhi096/neurachat/issues">💡 Request Feature</a>
+  
 </p>
 
 ---
