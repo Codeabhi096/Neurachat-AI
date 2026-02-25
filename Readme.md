@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="assets/neurachat.jpg" width="400"/>
-  <img src="assets/nn.jpg" width="400"/>
+  <img src="assets/Nn.jpg" width="400"/>
 </p>
 
 
