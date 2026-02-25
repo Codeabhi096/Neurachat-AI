@@ -5,12 +5,29 @@
 ### A Modern, Multi-Theme, Streaming AI Chatbot Built with Streamlit
 
 <p align="center">
+  <a href="https://youtu.be/nbk4y34z6-c">
+    <img src="https://img.youtube.com/vi/nbk4y34z6-c/maxresdefault.jpg" 
+         alt="NeuraChat AI Demo Video" 
+         width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/neurachat.JPG" width="400"/>
+  <img src="assets/Nn.JPG" width="400"/>
+</p>
+
+
+---
+
+
+<p align="center">
   <strong>NeuraChat AI</strong> is a premium-feeling, fast, and visually rich AI chatbot application inspired by modern  portfolios and SaaS dashboards.  
   It delivers real-time streaming responses, dynamic themes, and a professional chat experience — all built with Python & Streamlit.
 </p>
 
 <p align="center">
-  <a href="#">🚀 Live Demo</a> ·
+  <a href="https://neurachat-ai-okcaqmgitt6egphmeqjskn.streamlit.app/">🚀 Live Demo</a> ·
   <a href="#-setup--installation">📖 Documentation</a> ·
   
 </p>
