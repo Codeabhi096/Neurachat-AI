@@ -1,3 +1,5 @@
+.streamlit/secrets.toml
+
 # Environment variables
 .env
 
@@ -6,4 +8,3 @@
 # Python virtual environment
 venv/
 
-.streamlit/secrets.toml
