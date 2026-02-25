@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/neurachat.JPG" width="400"/>
-  <img src="assets/Nn.JPG" width="400"/>
+  <img src="assets/neurachat.jpg" width="400"/>
+  <img src="assets/nn.jpg" width="400"/>
 </p>
 
 
