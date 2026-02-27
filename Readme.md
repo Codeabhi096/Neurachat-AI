@@ -36,15 +36,8 @@
 
 ## 📸 UI Preview & Themes
 
-NeuraChat AI ships with **six fully dynamic, portfolio-style themes**, each designed for a unique visual identity.
+NeuraChat AI ships with **four fully dynamic, portfolio-style themes**, each designed for a unique visual identity.
 
-|         Cyber Green        |        Ocean Blue        |         Neon Purple         |
-| :------------------------: | :----------------------: | :-------------------------: |
-| 🌐 Matrix-inspired dark UI | 🌊 Deep blue modern look | 💜 Electric neon aesthetics |
-
-|         Forest        |     Light Mode     |      Deep Ocean      |
-| :-------------------: | :----------------: | :------------------: |
-| 🌲 Calm natural tones | ☀️ Clean & minimal | 🌊 Midnight deep sea |
 
 ---
 
@@ -71,7 +64,7 @@ NeuraChat AI ships with **six fully dynamic, portfolio-style themes**, each desi
 
 ### 🎨 Theme System
 
-* 6 fully customizable, dynamic themes
+* 5 fully customizable, dynamic themes
 * Instant theme switching (no reloads)
 * Each theme controls:
 
@@ -80,14 +73,6 @@ NeuraChat AI ships with **six fully dynamic, portfolio-style themes**, each desi
   * Gradients & glow effects
   * Backgrounds & UI elements
 
-| Theme          | Accent Color | Typography          |
-| -------------- | ------------ | ------------------- |
-| 🌐 Cyber Green | `#00ff88`    | Orbitron + Rajdhani |
-| 🌊 Ocean Blue  | `#00aaff`    | Exo 2               |
-| 💜 Neon Purple | `#cc00ff`    | Orbitron + Rajdhani |
-| 🌲 Forest      | `#00cc55`    | Nunito              |
-| ☀️ Light Mode  | `#4f38e8`    | Plus Jakarta Sans   |
-| 🌊 Deep Ocean  | `#0066ff`    | Exo 2               |
 
 ---
 
@@ -240,7 +225,7 @@ python-dotenv>=1.0.0
 
 | Variable             | Required | Description             |
 | -------------------- | -------- | ----------------------- |
-| `OPENROUTER_API_KEY` | ✅ Yes    | Your OpenRouter API key |
+| `OPENROUTER_API_KEY` |  Yes    | Your OpenRouter API key |
 
 ---
 
@@ -269,7 +254,7 @@ git push origin feature/your-feature
 ---
 
 <p align="center">
-  <strong>Built with ❤️ using Python, Streamlit & OpenRouter</strong><br/>
+  <strong>Built by Abhishek using Python, Streamlit & OpenRouter</strong><br/>
   ⭐ Star this repository if you find it useful!
 </p>
 
