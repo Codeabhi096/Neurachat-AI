@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://neurachat-ai-okcaqmgitt6egphmeqjskn.streamlit.app/">🚀 Live Demo</a> ·
+  <a href="https://neurachat-ai-7208.streamlit.app/">🚀 Live Demo</a> ·
   <a href="#-setup--installation">📖 Documentation</a> ·
   
 </p>
