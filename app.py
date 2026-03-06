@@ -19,9 +19,7 @@ except ImportError:
 
 load_dotenv()
 
-# ─────────────────────────────────────────────────────────────────────────────
-#  PAGE CONFIG  ← must be the VERY FIRST Streamlit call
-# ─────────────────────────────────────────────────────────────────────────────
+
 st.set_page_config(
     page_title="NeuraChat AI",
     page_icon="✦",
